@@ -30,7 +30,7 @@ The project has two main detectors:
 ### ▶️ Local Test (WSL or Linux)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/keylogger-detector.git
+git clone https://github.com/FatonHaxhiu/keylogger-detector.git
 cd keylogger-detector
 pip install -r requirements.txt
 
