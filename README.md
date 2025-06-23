@@ -40,6 +40,7 @@ python3 detector/detect_suspicious_processes.py
 # Run input access check (needs sudo)
 sudo python3 detector/check_raw_input_access.py
 
-🐳 Run in Docker
+
+# 🐳 Run in Docker
 docker build -t keylogger-detector .
 docker run --rm --privileged keylogger-detector
