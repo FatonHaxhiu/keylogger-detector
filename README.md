@@ -1,6 +1,6 @@
 # 🔐 Keylogger Detector
 
-![CI](https://github.com/YOUR_USERNAME/keylogger-detector/actions/workflows/test-detector.yml/badge.svg)
+![CI](https://github.com/FatonHaxhiu/keylogger-detector/actions/workflows/test-detector.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -39,4 +39,3 @@ python3 detector/detect_suspicious_processes.py
 
 # Run input access check (needs sudo)
 sudo python3 detector/check_raw_input_access.py
-
